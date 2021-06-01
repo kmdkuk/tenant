@@ -1,0 +1,6 @@
+domain: kmdkuk.com
+layout:
+- go.kubebuilder.io/v3
+projectName: tenant
+repo: github.com/kmdkuk/tenant
+version: "3"
